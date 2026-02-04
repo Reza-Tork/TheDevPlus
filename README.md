@@ -27,15 +27,3 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Tell%20me&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-### 🚧 Currently Working On
-
-[![404Vpn](https://img.shields.io/badge/-404Vpn-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reza-Tork/404Vpn)
-
-A project for managing and selling VPN services using **ASP.NET Core**, **Entity Framework**, and a **Telegram Bot** 🤖
-
-<br />
-
-🖼️ Admin Panel Preview:
-
-<img src="https://raw.githubusercontent.com/Reza-Tork/404Vpn/refs/heads/master/screenshots/dashboard.png" alt="Admin Panel Screenshot" width="600"/>
